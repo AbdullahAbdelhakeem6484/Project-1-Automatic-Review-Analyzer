@@ -1,4 +1,5 @@
 # Project-1-Automatic-Review-Analyzer
+# MIT 
 ## Machine Learning with Python-From Linear Models to Deep Learning
 ### Project 1: Automatic Review Analyzer
 ### The goal of this project is to design a classifier to use for sentiment analysis of product reviews. 
